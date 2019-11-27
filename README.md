@@ -5,3 +5,5 @@ senha e login : admin
 
 Clique em queues se o projeto ja for eecutar existira uma fila "FILA_DE_SERVICO" criada;
 
+Apresentação: https://github.com/Tadeujr/TrabalhoSD/blob/master/Sistemas%20Distribuidos%20-%20Trabalho%20Final%20(1).pdf
+
